@@ -1,0 +1,15 @@
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.sourcelink.json
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\reddy\OneDrive\Desktop\High quality course\PROG8051_Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
