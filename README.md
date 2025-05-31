@@ -1,4 +1,4 @@
-# 🐾 Virtual Pet Simulator - PROG8051 Final Project
+# 🐾 Virtual Pet Simulator - PROG8051 Assignment1
 
 Welcome to the **Virtual Pet Simulator** which is a C# console application that puts you in charge of your very own virtual pet! You can Choose your furry friend, monitor their needs and engage in daily care to keep them happy, healthy, and loved. 🐶🐱🐰
 
@@ -6,7 +6,7 @@ Welcome to the **Virtual Pet Simulator** which is a C# console application that 
 
 ## 📽️ Demo
 
-▶️ Watch the complete simulation demo on [YouTube]() *(2-minute walkthrough of features and pet care actions)*.
+▶️ Watch the complete simulation demo on [YouTube](https://youtu.be/_bZv-T3b1RQ) *(2-minute walkthrough of features and pet care actions)*.
 
 ---
 
